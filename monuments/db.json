@@ -1,0 +1,46 @@
+{
+  "monuments": [
+    {
+      "id": "1",
+      "name": "Taj Mahal",
+      "description": "A white marble mausoleum built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "city": "Agra",
+      "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/bowutuUL8lQd4ymvjhZnGYKnzPY=/fit-in/1200x0/filters:focal(1471x1061:1472x1062)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2Fb6%2F30%2Fb630b48b-7344-4661-9264-186b70531bdc%2Fistock-478831658.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Eiffel Tower",
+      "description": "An iconic iron lattice tower in Paris, France, designed by Gustave Eiffel.",
+      "city": "Paris",
+      "imageUrl": "https://planetrail.co.uk/wp-content/uploads/Eiffel-Tower-Paris-resized.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Great Wall of China",
+      "description": "A historic series of fortifications built to protect China from invasions.",
+      "city": "Beijing",
+      "imageUrl": "https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F399ede1e-3150-48e6-a468-c0148bfb3d5d.jpg?crop=2812%2C2812%2C1094%2C0"
+    },
+    {
+      "id": "4",
+      "name": "Statue of Liberty",
+      "description": "A neoclassical sculpture gifted by France to the United States, symbolizing freedom.",
+      "city": "New York",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/XsbvTN6PRi6PZtgEGvRsiE-1200-80.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Colosseum",
+      "description": "An ancient Roman amphitheater used for gladiator contests and public spectacles.",
+      "city": "Rome",
+      "imageUrl": "https://aws-tiqets-cdn.imgix.net/images/content/b3a66adfc33a4c1f9d8480800ee981c9.jpg?auto=format&fit=crop&h=333&ixlib=python-3.2.1&q=70&w=500&s=17591fcdc23a9427f0c649273de806e0"
+    },
+    {
+      "id": "720f",
+      "name": "Machu Picchu",
+      "description": "Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru, above the Urubamba River valley. Built in the 15th century and later abandoned, it’s renowned for its sophisticated dry-stone walls that fuse huge blocks without the use of mortar, intriguing buildings that play on astronomical alignments and panoramic views. Its exact former use remains a mystery.",
+      "city": "Peru",
+      "imageUrl": "https://www.discoveradventure.com/media/image-cache/5a1a8974-1a12-4317-9ff8-6e7c15364c6a/900-0-1-932-710/1564573980-1564573974-1564573966-1539097514-1539097474-machu-picchu-view.jpg"
+    }
+  ]
+}
